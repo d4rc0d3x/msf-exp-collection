@@ -38,25 +38,19 @@ Exploits from the following databases can be found here:
 Copy the entire content of the "msf4-root" to your ~"/.msf4/modules/" directory
 
 
-- MODULES CONFIGURATION
+-> MODULES CONFIGURATION
 
 Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>/lib/msf/core/auxiliary/mixins.rb" 
 Include the following entries at the end of the file:
 
-  require '/root/.msf4/modules/lib/msf/core/auxiliary/sip'
-  require '/root/.msf4/modules/lib/msf/core/auxiliary/msrp'
-  require '/root/.msf4/modules/lib/msf/core/auxiliary/skinny'
-
-
-- EXPLOITS CONFIGURATION
+-> EXPLOITS CONFIGURATION
 
 Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>tools/modules/module_mixins.rb" 
 Include the following entries at the end of the file:
 
-
-- FINAL CONFIGURATIONS
+-> FINAL CONFIGURATIONS
 
 Restart metasploit framework
 
-\# service metasploit restart
+root:/root# service metasploit restart
 .... 
