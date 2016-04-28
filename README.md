@@ -10,7 +10,7 @@ The exploits in this repository are a collection of WORKING exploits gathered th
 
 # Metasploit Exploit Packs
 
-The following Metasploit Exploit Packs can be found compiiled here:
+The following Metasploit Exploit Packs can be found compiiled here in "msf4-root" directory:
 
 1. Metasploit
 2. Viproy (http://www.viproy.com/)
