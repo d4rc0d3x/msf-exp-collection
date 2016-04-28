@@ -12,4 +12,5 @@ The exploits in this repository are a collection of WORKING exploits gathered th
 
 1. Viproy (http://www.viproy.com/)
 2. WPSploit (https://github.com/espreto/wpsploit)
-3. ... etc
+3. MetaSSH ()
+4. ... etc
