@@ -6,4 +6,7 @@ The exploits in this repository are a collection of WORKING exploits gathered th
 1. Personal Exploits
 2. Exploit Databases
 3. Exploit Packs
-4.1. lakjsdf
+   Viproy (http://www.viproy.com/)
+   WPSploit (https://github.com/espreto/wpsploit)
+   ... etc
+4. asdf
