@@ -40,7 +40,13 @@ Copy the entire content of the "msf4-root" to your ~"/.msf4/modules/" directory
 
 2. MODULES CONFIGURATION
 
-Search for your metasploit "mixins.rb" file and include the following entry:
+Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>/" 
+Include the following entries at the end of the file:
+
+# Viproy SIP Modules
+require '/root/.msf4/modules/lib/msf/core/auxiliary/sip'
+require '/root/.msf4/modules/lib/msf/core/auxiliary/skinny'
+require '/root/.msf4/modules/lib/msf/core/auxiliary/msrp'
 
 3. EXPLOITS CONFIGURATION
 
