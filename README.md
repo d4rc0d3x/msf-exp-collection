@@ -33,14 +33,18 @@ Exploits from the following databases can be found here:
 
 # Installation Instructions
 
-[METASPLOIT EXPLOITS]
+1. METASPLOIT EXPLOITS
 
 Copy the entire content of the "msf4-root" to your ~"/.msf4/modules/" directory
 
 
-[MODULES]
+2. MODULES CONFIGURATION
 
 Search for your metasploit "mixins.rb" file and include the following entry:
 
+3. EXPLOITS CONFIGURATION
+
+
     
+4. PAYLOADS CONFIGURATION
 
