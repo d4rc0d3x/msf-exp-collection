@@ -18,3 +18,15 @@ The following Metasploit Exploit Packs can be found compiiled here in "msf4-root
 4. MetaSSH (https://github.com/dirtyfilthy/metassh)
 5. ... etc
 
+# Exploit Databases
+
+Exploits from the following databases can be found here:
+
+1. Exploit-db (https://www.exploit-db.com/)
+2. Vulnerability Lab (http://www.vulnerability-lab.com/)
+3. 0day.today (http://0day.today/)
+4. PacketStorm (https://packetstormsecurity.com/files/tags/exploit/)
+5. CXSecurity (http://cxsecurity.com/)
+6. Intelligent Exploit (https://www.intelligentexploit.com/)
+7. Exploit-ID (http://www.exploit-id.com/)
+8. ExploitHub (https://exploithub.com)
