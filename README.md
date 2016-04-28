@@ -30,3 +30,17 @@ Exploits from the following databases can be found here:
 6. Intelligent Exploit (https://www.intelligentexploit.com/)
 7. Exploit-ID (http://www.exploit-id.com/)
 8. ExploitHub (https://exploithub.com)
+
+# Installation Instructions
+
+[METASPLOIT EXPLOITS]
+
+Copy the entire content of the "msf4-root" to your ~"/.msf4/modules/" directory
+
+
+[MODULES]
+
+Search for your metasploit "mixins.rb" file and include the following entry:
+
+    
+
