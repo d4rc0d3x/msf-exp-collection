@@ -1,7 +1,8 @@
 2016-04-29
-  . 
+  . Added Changelog.txt file
   
 2016-04-28
   . Metasploit Banner Screenshot updated
-  . Added wpsploit exploit bundle to metasploit ~root/.msf4/modules/
-  . Added viproy exploit bundle to metasploit ~root/.msf4/modules/
+  . Added WPSploit exploit bundle to metasploit ~root/.msf4/modules/
+  . Added Viproy exploit bundle to metasploit ~root/.msf4/modules/
+  . Added MetaSSH exploit bundle to metasploit ~root/.msf4/modules/
