@@ -40,7 +40,7 @@ Exploits from the following databases can be found here:
 Copy the entire content of the "msf4-root" to your ~"/.msf4/modules/" directory
 
 
-= MODULES CONFIGURATION
+- MODULES CONFIGURATION
 ```
 Search for your metasploit modules "mixins.rb" file, generally in 
 "~<msf_root_directory>/lib/msf/core/auxiliary/mixins.rb" 
