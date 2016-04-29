@@ -41,19 +41,19 @@ Copy the entire content of the "msf4-root" to your ~"/.msf4/modules/" directory
 
 
 [MODULES CONFIGURATION]
-
+```
 Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>/lib/msf/core/auxiliary/mixins.rb" 
 Include the following entries at the end of the file:
 
   require '/root/.msf4/modules/lib/msf/core/auxiliary/sip'
   require '/root/.msf4/modules/lib/msf/core/auxiliary/skinny'
   require '/root/.msf4/modules/lib/msf/core/auxiliary/msrp'
-
+```
 [EXPLOITS CONFIGURATION]
-
+```
 Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>tools/modules/module_mixins.rb" 
 Include the following entries at the end of the file:
-
+```
 [FINAL CONFIGURATIONS]
 
 Restart metasploit framework
