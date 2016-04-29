@@ -1,5 +1,8 @@
 2016-04-29
   . Added Changelog.txt file
+  . Added msf4-root directory
+  . Added msf-exploit-packs directory
+  . Added third-party-exploits
   
 2016-04-28
   . Metasploit Banner Screenshot updated
