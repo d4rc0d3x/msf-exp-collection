@@ -5,10 +5,10 @@ The exploits in this repository are a collection of WORKING exploits gathered th
 
 # Current Metasploit State
 
-'''
+```
 + -- --=[ 1545 exploits - 950 auxiliary - 264 post        ]
 + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
-'''
+```
 
 # Metasploit Exploit Packs
 
