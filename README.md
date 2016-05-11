@@ -5,7 +5,7 @@ The exploits in this repository are a collection of WORKING exploits gathered th
 
 # Current Metasploit State
 
-```
+```bash
 + -- --=[ 1545 exploits - 950 auxiliary - 264 post        ]
 + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
 ```
@@ -41,23 +41,27 @@ Copy the entire content of the "msf4-root" to your ~"/.msf4/modules/" directory
 
 
 - MODULES CONFIGURATION
-Search for your metasploit modules "mixins.rb" file, generally in 
-"~<msf_root_directory>/lib/msf/core/auxiliary/mixins.rb" 
+
+Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>/lib/msf/core/auxiliary/mixins.rb" 
 
 Include the following entries at the end of the file:
+
 ```bash
   require '/root/.msf4/modules/lib/msf/core/auxiliary/sip'
   require '/root/.msf4/modules/lib/msf/core/auxiliary/skinny'
   require '/root/.msf4/modules/lib/msf/core/auxiliary/msrp'
 ```
+
 - EXPLOITS CONFIGURATION
-```
+
 Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>tools/modules/module_mixins.rb" 
 Include the following entries at the end of the file:
-```
+
 - FINAL CONFIGURATIONS
-```
+
+
 Restart metasploit framework
 
+```bash
 root# service metasploit restart
 ```
