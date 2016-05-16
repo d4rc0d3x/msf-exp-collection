@@ -1,5 +1,7 @@
 2016-05-16
   . Added Metasploit Q Repositories modules
+  . Changed 'class' Metasploit3 and Metasploit4 to MetasploitModule
+  . Fixed Racket Modules Author's code to work
   
   + -- --=[ 1603 exploits - 997 auxiliary - 280 post        ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
