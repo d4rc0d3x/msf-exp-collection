@@ -18,7 +18,8 @@ The following Metasploit Exploit Packs can be found compiiled here in "msf4-root
 2. Viproy (http://www.viproy.com/)
 3. WPSploit (https://github.com/espreto/wpsploit)
 4. MetaSSH (https://github.com/dirtyfilthy/metassh)
-5. ... etc
+5. Metasploit Q Repository (https://github.com/mubix/q.git)
+6. ... etc
 
 # Exploit Databases
 
