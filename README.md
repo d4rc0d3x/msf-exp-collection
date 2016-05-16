@@ -6,7 +6,7 @@ The exploits in this repository are a collection of WORKING exploits gathered th
 # Current Metasploit State
 
 ```bash
-+ -- --=[ 1545 exploits - 950 auxiliary - 264 post        ]
++ -- --=[ 1550 exploits - 997 auxiliary - 265 post        ]
 + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
 ```
 
