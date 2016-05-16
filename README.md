@@ -54,8 +54,14 @@ Include the following entries at the end of the file:
 
 - EXPLOITS CONFIGURATION
 
-Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>tools/modules/module_mixins.rb" 
+Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_directory>/lib/msf/core/exploit/mixins.rb" 
 Include the following entries at the end of the file:
+
+```bash
+  require '/root/.msf4/modules/lib/msf/core/auxiliary/sip'
+  require '/root/.msf4/modules/lib/msf/core/auxiliary/skinny'
+  require '/root/.msf4/modules/lib/msf/core/auxiliary/msrp'
+```
 
 - FINAL CONFIGURATIONS
 
