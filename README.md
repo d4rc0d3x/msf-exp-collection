@@ -38,7 +38,7 @@ Exploits from the following databases can be found here:
 
 - METASPLOIT EXPLOITS
 
-Copy the entire content of the "msf4-root" to your ~"/.msf4/modules/" directory
+Copy the entire content of the "msf4-root" to your "/.msf4/" directory
 
 
 - MODULES CONFIGURATION
@@ -48,9 +48,8 @@ Search for your metasploit modules "mixins.rb" file, generally in "~<msf_root_di
 Include the following entries at the end of the file:
 
 ```bash
-  require '/root/.msf4/modules/lib/msf/core/auxiliary/sip'
-  require '/root/.msf4/modules/lib/msf/core/auxiliary/skinny'
-  require '/root/.msf4/modules/lib/msf/core/auxiliary/msrp'
+  # D4rc0d3x Metasploit Exploit Collection
+  require '/root/.msf4/lib/msf/core/exploit/mixins.rb'
 ```
 
 - EXPLOITS CONFIGURATION
