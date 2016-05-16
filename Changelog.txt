@@ -1,7 +1,7 @@
 2016-05-16
   . Added Metasploit Q Repositories modules
   
-  + -- --=[ 1550 exploits - 997 auxiliary - 265 post        ]
+  + -- --=[ 1603 exploits - 997 auxiliary - 280 post        ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
 
 2016-04-29
