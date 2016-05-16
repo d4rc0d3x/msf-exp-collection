@@ -1,11 +1,18 @@
 2016-05-16
   . Added Metasploit Q Repositories modules
+  
+  + -- --=[ 1545 exploits - 950 auxiliary - 264 post        ]
+  + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
+  
 
 2016-04-29
   . Added Changelog.txt file
   . Added msf4-root directory
   . Added msf-exploit-packs directory
   . Added third-party-exploits
+  
+  + -- --=[ 1545 exploits - 950 auxiliary - 264 post        ]
+  + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
   
 2016-04-28
   . Metasploit Banner Screenshot updated
