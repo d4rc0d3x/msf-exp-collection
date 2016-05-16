@@ -2,10 +2,12 @@
   . Added Metasploit Q Repositories modules
   . Changed 'class' Metasploit3 and Metasploit4 to MetasploitModule
   . Fixed Racket Modules Author's code to work
+  . Fixed sap module path
+  . Fixed metassh module path
   
-  + -- --=[ 1603 exploits - 997 auxiliary - 280 post        ]
+  + -- --=[ 1605 exploits - 1006 auxiliary - 280 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
-
+  
 2016-04-29
   . Added Changelog.txt file
   . Added msf4-root directory
