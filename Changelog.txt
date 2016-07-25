@@ -1,3 +1,16 @@
+2016-07-25
+  . Added barracuda_waf_lb_remote_root.rb.rb exploit
+  . Added barracuda_svf_remote_root.rb.rb exploit
+  
+  + -- --=[ 1608 exploits - 1007 auxiliary - 280 post       ]
+  + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
+
+2016-07-22
+  . Added Drupal_RESTWS_PHP_REC.rb exploit
+  
+  + -- --=[ 1606 exploits - 1007 auxiliary - 280 post       ]
+  + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
+  
 2016-05-16
   . Added Metasploit Q Repositories modules
   . Changed 'class' Metasploit3 and Metasploit4 to MetasploitModule
