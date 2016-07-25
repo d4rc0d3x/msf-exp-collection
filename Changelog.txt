@@ -4,7 +4,7 @@
   . Added webnms_framework_server_arbitrary_text_file_download.rb exploit
   . Added webnms_framework_server_credential_disclosure.rb exploit
   
-  + -- --=[ 1610 exploits - 1007 auxiliary - 280 post       ]
+  + -- --=[ 1608 exploits - 1011 auxiliary - 280 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
 
 2016-07-22
