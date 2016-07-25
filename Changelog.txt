@@ -4,6 +4,7 @@
   . Added webnms_framework_server_arbitrary_text_file_download.rb module
   . Added webnms_framework_server_credential_disclosure.rb module
   . Added netbios_spoof_nat.rb module
+  . Added clamav_control.rb module
   
   + -- --=[ 1608 exploits - 1011 auxiliary - 280 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
