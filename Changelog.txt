@@ -5,8 +5,9 @@
   . Added webnms_framework_server_credential_disclosure.rb module
   . Added netbios_spoof_nat.rb module
   . Added clamav_control.rb module
+  . Metasploit Update
   
-  + -- --=[ 1608 exploits - 1011 auxiliary - 280 post       ]
+  + -- --=[ 1620 exploits - 1016 auxiliary - 282 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
 
 2016-07-22
