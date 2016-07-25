@@ -9,7 +9,7 @@
   . Minor corrections porting old msf3 racket dependent modules to PacketFu
   . Metasploit Update
   
-  + -- --=[ 1620 exploits - 1021 auxiliary - 282 post       ]
+  + -- --=[ 1621 exploits - 1021 auxiliary - 282 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
 
 2016-07-22
