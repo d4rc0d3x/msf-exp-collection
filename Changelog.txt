@@ -1,6 +1,7 @@
 2016-07-25
   . Added barracuda_waf_lb_remote_root.rb.rb exploit
   . Added barracuda_svf_remote_root.rb.rb exploit
+  . Added webnms_framework_server_arbitrary_text_file_download.rb exploit
   
   + -- --=[ 1608 exploits - 1007 auxiliary - 280 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
