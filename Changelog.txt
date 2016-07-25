@@ -5,10 +5,11 @@
   . Added webnms_framework_server_credential_disclosure.rb module
   . Added netbios_spoof_nat.rb module
   . Added clamav_control.rb module
-  . Minor typo orrections in metasploit modules
+  . Minor typo corrections in metasploit modules
+  . Minor corrections porting old msf3 racket dependent modules to PacketFu
   . Metasploit Update
   
-  + -- --=[ 1620 exploits - 1016 auxiliary - 282 post       ]
+  + -- --=[ 1620 exploits - 1021 auxiliary - 282 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
 
 2016-07-22
