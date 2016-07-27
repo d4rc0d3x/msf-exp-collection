@@ -1,3 +1,10 @@
+2016-07-27
+  . Added barracuda_waf_lb_post_auth_remote_root.rb module
+  . Added drupal_coder_rce.rb module
+  
+  + -- --=[ 1623 exploits - 1021 auxiliary - 282 post       ]
+  + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
+
 2016-07-25
   . Added barracuda_waf_lb_remote_root.rb.rb exploit
   . Added barracuda_svf_remote_root.rb.rb exploit
