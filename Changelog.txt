@@ -1,6 +1,7 @@
 2016-07-27
   . Added barracuda_waf_lb_post_auth_remote_root.rb module
   . Added drupal_coder_rce.rb module
+  . Update on payloads folder structure on ./msf4/modules/payloads/
   
   + -- --=[ 1623 exploits - 1021 auxiliary - 282 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
