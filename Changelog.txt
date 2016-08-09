@@ -1,7 +1,7 @@
 2016-08-09
-  . Added Avira Password Extraction Exploit
-  . Added Tomabo MP4 Player 3.11.6 - SEH Based Stack Overflow
-  . Added Apache Continuum Arbitrary Command Execution
+  . Added Avira Password Extraction Post Exploit module
+  . Added Tomabo MP4 Player 3.11.6 - SEH Based Stack Overflow module
+  . Added Apache Continuum Arbitrary Command Execution module
   
   + -- --=[ 1625 exploits - 1021 auxiliary - 283 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
