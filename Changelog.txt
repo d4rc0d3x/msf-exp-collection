@@ -1,3 +1,11 @@
+2016-08-09
+  . Added Avira Password Extraction Exploit
+  . Added Tomabo MP4 Player 3.11.6 - SEH Based Stack Overflow
+  . Added Apache Continuum Arbitrary Command Execution
+  
+  + -- --=[ 1625 exploits - 1021 auxiliary - 283 post       ]
+  + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
+  
 2016-07-27
   . Added barracuda_waf_lb_post_auth_remote_root.rb module
   . Added drupal_coder_rce.rb module
