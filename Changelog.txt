@@ -2,8 +2,9 @@
   . Added Barracuda barracuda_firmware_post_auth_remote_root.rb module
   . Added Barracuda barracuda_waf_lb_auth_remote_root module
   . Added Barracuda barracuda_waf_lb_remote_root2.rb module
+  . Added android_stagefright_mp4_tx3g_int_overflow.rb module
   
-  + -- --=[ 1628 exploits - 1021 auxiliary - 283 post       ]
+  + -- --=[ 1629 exploits - 1021 auxiliary - 283 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
   
 2016-08-09
