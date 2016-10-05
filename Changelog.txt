@@ -8,8 +8,9 @@
   . Added phoenix_exp_rce.rb module
   . Added centreon_web_useralias_rce.rb module
   . Added sugarcrm_rest_php_object_injection.rb module
+  . Added tiki_wiki_unauth_file_upload.rb module
   
-  + -- --=[ 1635 exploits - 1021 auxiliary - 283 post       ]
+  + -- --=[ 1636 exploits - 1021 auxiliary - 283 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
   
 2016-08-09
