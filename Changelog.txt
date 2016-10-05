@@ -4,8 +4,12 @@
   . Added Barracuda barracuda_waf_lb_remote_root2.rb module
   . Added android_stagefright_mp4_tx3g_int_overflow.rb module
   . Added metasploit_web_ui_rce.rb module
+  . Added kaltura_php_rce.rb module
+  . Added phoenix_exp_rce.rb module
+  . Added centreon_web_useralias_rce.rb module
+  . Added sugarcrm_rest_php_object_injection.rb module
   
-  + -- --=[ 1630 exploits - 1021 auxiliary - 283 post       ]
+  + -- --=[ 1635 exploits - 1021 auxiliary - 283 post       ]
   + -- --=[ 438 payloads - 38 encoders - 8 nops             ]
   
 2016-08-09
